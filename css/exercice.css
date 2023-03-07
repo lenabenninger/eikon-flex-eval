@@ -93,4 +93,11 @@
 /* 9. exercice-9 */
 
 /* 10. exercice-10 */
+.exercice-10 .container-big {
+  display: flex;
+}
+
+.exercice-10 .element {
+  margin: auto;
+}
 
