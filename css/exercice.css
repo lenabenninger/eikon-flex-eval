@@ -91,6 +91,18 @@
 }
 
 /* 9. exercice-9 */
+.exercice-9 .container-small {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: baseline;
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.exercice-9 .container .element {
+  box-sizing: border-box;
+  width: 50%;
+}
 
 /* 10. exercice-10 */
 .exercice-10 .container-big {
