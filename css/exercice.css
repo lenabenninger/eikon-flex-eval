@@ -13,6 +13,17 @@
 }
 
 /* 3. exercice-3 */
+.exercice-3 .container-big {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.exercice-3 .element-blue {
+  order: -1;
+  align-self: flex-start;
+}
 
 /* 4. exercice-4 */
 
