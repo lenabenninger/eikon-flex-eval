@@ -32,16 +32,11 @@
   align-items: center;
 }
 
-.exercice-4 .element-blue {
-  order: 3;
-}
-
 .exercice-4 .element-pink {
-  order: 2;
   align-self: flex-start;
 }
 
-.exercice-4 .element-green {
+.exercice-4 .element-blue {
   order: 1;
 }
 
@@ -51,7 +46,6 @@
   flex-wrap: wrap;
   justify-content: center;
   align-content: center;
-  align-items: center;
 }
 
 /* 6. exercice-6 */
@@ -95,11 +89,9 @@
   display: flex;
   flex-flow: row wrap;
   align-items: baseline;
-  box-sizing: border-box;
-  width: 50%;
 }
 
-.exercice-9 .container .element {
+.exercice-9  .element {
   box-sizing: border-box;
   width: 50%;
 }
@@ -109,7 +101,9 @@
   display: flex;
 }
 
+
 .exercice-10 .element {
   margin: auto;
 }
+
 
