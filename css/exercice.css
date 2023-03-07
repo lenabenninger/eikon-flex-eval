@@ -53,7 +53,18 @@
   align-content: center;
   align-items: center;
 }
+
 /* 6. exercice-6 */
+.exercice-6 .container-small {
+  display: flex;
+  flex-flow: row wrap-reverse;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.exercice-6 .element {
+  flex-grow: 1;
+}
 
 /* 7. exercice-7 */
 
