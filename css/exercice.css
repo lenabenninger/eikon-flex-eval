@@ -5,6 +5,12 @@
   align-items: center;
 }
 /* 2. exercice-2 */
+.exercice-2 .container-big {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+}
 
 /* 3. exercice-3 */
 
